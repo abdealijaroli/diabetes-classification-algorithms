@@ -11,6 +11,7 @@ Experimented with the following classifiers:
 - Logistic Regression
 - Naive Bayes
 - Ada Boost
+- Gradient Boost
 
 Also played around cleaning and standardizing the dataset.
 
