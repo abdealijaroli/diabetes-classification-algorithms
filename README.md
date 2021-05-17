@@ -10,8 +10,8 @@ Experimented with the following classifiers:
 - Random Forest
 - Logistic Regression
 - Naive Bayes
-- Ada Boost
-- Gradient Boost
+- AdaBoost
+- Gradient Boosting
 
 Also played around cleaning and standardizing the dataset.
 
